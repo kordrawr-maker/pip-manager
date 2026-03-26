@@ -6,9 +6,19 @@ Install, update, and manage all your Python dependencies in one place — no ter
 # Features
 Install Packages
 __Easily install any package from PyPI with a single click.__
+
+
 **View Installed Packages**
+
+
 See a clean list of everything currently installed in your environment.
+
+
 **Simple & Clean GUI**
 Minimal, user-friendly interface — no clutter, just functionality.
+
+
 **Fast & Lightweight**
+
+
 Built to be quick and responsive without unnecessary overhead.
